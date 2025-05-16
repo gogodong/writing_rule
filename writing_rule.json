@@ -1,127 +1,96 @@
 {
-
   "写好段落的建议": {
-
     "核心原则": "一个段落 (paragraph) 是围绕一个单一想法 (single idea) 进行逻辑组织的基本单元。好的段落具有三个重要特性：统一性 (unified)、连贯性 (coherent) 和独特性 (distinct)。",
-
     "统一性 (Unified)": {
-
       "描述": "确保段落中的所有句子都围绕同一个中心思想展开。",
-
       "注意事项": [
-
         {
-
           "要点": "使用明确的主题句 (Topic Sentence)",
-
           "解释": "通常将主题句放在段落的开头，用以清晰地声明该段落的中心思想。段落的每一句话都应服务于这个主题句所表达的中心思想。"
-
         },
-
         {
-
           "要点": "内容聚焦",
-
           "解释": "避免在一个段落中引入与中心思想不直接相关的信息或跑题 (stray thoughts)。所有句子都应该致力于发展和支持主题句提出的观点。"
-
         },
-
         {
-
           "要点": "结尾呼应",
-
           "解释": "段落的结尾可以简洁地重申或总结中心思想，给读者一个清晰的收尾。开头和结尾都是段落的 'power positions'。"
-
         }
-
       ]
-
     },
-
     "连贯性 (Coherent)": {
-
       "描述": "确保段落中的句子逻辑清晰、衔接自然，使读者能够顺畅地理解思想的递进。",
-
       "注意事项": [
-
         {
-
           "要点": "逻辑顺序 (Logical Order)",
-
           "解释": "按照一定的逻辑顺序组织句子，如时间顺序、空间顺序、从一般到具体 (general to specific)、从具体到一般 (specific to general)、从最不重要到最重要 (least to most important) 等，确保读者能够轻松跟上思路。"
-
         },
-
         {
-
           "要点": "使用关联方法 (Relational Devices)",
-
           "解释": "运用一些技巧来表明句子之间的关系，包括：\n- 主题句中的信号词 (Signalling in the topic sentence)：主题句可以预示段落的组织结构。\n- 平行结构和措辞 (Parallel construction and word choice)：使用语法结构或词汇相似的句子来表达序列性的内容。\n- 重复关键词或短语 (Repetition of key words or phrases)：适度重复核心词汇可以加强句子间的联系并提醒读者段落主题。\n- 过渡性表达 (Transitional expressions)：使用如 'furthermore', 'however', 'as a result', 'in contrast' 等词语明确指示句子间的逻辑关系。"
-
         },
-
         {
-
           "要点": "信息承接",
-
           "解释": "确保读者理解当前句子所需的信息，已经在前面的句子中有所铺垫或提及。"
-
         }
-
       ]
-
     },
-
     "独特性 (Distinct)": {
-
       "描述": "每个段落都应有其自身明确的主题，并与其前后段落有所区分，同时又能共同构成文章的整体论证。",
-
       "注意事项": [
-
         {
-
           "要点": "清晰的段落界限",
-
           "解释": "每次换段都应标志着一个新的想法 (new idea) 或对现有话题的新视角 (new perspective) 的开始。"
-
         },
-
         {
-
           "要点": "避免不必要的分段 (Superfluous paragraph breaks)",
-
           "解释": "不要仅仅因为段落看起来太长就随意分段，除非确实有主题的转变。如果要划分一个长段落，需要清晰地划分其主题。"
-
         },
-
         {
-
           "要点": "避免段落间的过度依赖 (Overstrong dependencies)",
-
           "解释": "段落的开头不应完全依赖前一个段落的内容才能被理解（例如，仅用 'This' 或 'For example' 开头而没有足够的上下文）。应确保连接句能清晰地联系两个段落的主题。"
-
         },
-
         {
-
           "要点": "避免冗余段落 (Redundant paragraphs)",
-
           "解释": "不要在不同的段落中重复讨论实质上相同的主题，这会使文章显得冗长且逻辑不清。"
-
         },
-
         {
-
           "要点": "段落间的自然过渡",
-
           "解释": "虽然每个段落主题独立，但也要通过逻辑顺序、平行结构、重复和过渡性表达与相邻段落建立联系，确保整个文章思路的连贯性。"
-
         }
-
       ]
-
     }
-
+  },
+  "避免行文啰嗦的补充建议 (Additional Suggestions for Avoiding Verbosity)": {
+    "核心原则 (Core Principle)": "在遵循段落写作基本原则（统一性、连贯性、独特性）的基础上，进一步提升表达的精炼度和信息传递效率，避免不必要的冗余和拖沓。(Building upon the fundamental principles of paragraph writing (unity, coherence, distinctness), further enhance the conciseness of expression and efficiency of information delivery, avoiding unnecessary redundancy and sluggishness.)",
+    "提升精炼度的策略 (Strategies for Enhancing Conciseness)": {
+      "描述": "通过优化内容组织和表达方式，确保信息传递直接、高效，减少读者不必要的认知负荷。(Optimize content organization and expression to ensure direct and efficient information delivery, reducing unnecessary cognitive load for the reader.)",
+      "注意事项": [
+        {
+          "要点": "深化统一性：避免概念的同义反复 (Deepen Unity: Avoid Tautological Repetition of Concepts)",
+          "解释": "在清晰表达核心观点后，避免使用不同措辞对同一概念或论点进行不必要的重复性阐述，确保每个表述都贡献新价值或强化论证而非简单重复。(After clearly expressing the core idea, avoid unnecessary repetitive阐述 of the same concept or argument using different phrasing. Ensure each statement contributes new value or strengthens the argument rather than merely repeating.)"
+        },
+        {
+          "要点": "聚焦核心信息：精简背景与常识性铺垫 (Focus on Core Information: Streamline Background and Common Knowledge)",
+          "解释": "审慎评估背景信息和普遍认知的铺垫程度，仅保留对理解核心论点至关重要的部分，避免为已知或易推断信息分配过多篇幅。(Critically assess the extent of background information and common knowledge provided. Retain only what is essential for understanding the core argument, avoiding excessive length for known or easily inferred information.)"
+        },
+        {
+          "要点": "优化连贯性：加速结论导向与前瞻性指引 (Optimize Coherence: Accelerate Conclusion Orientation and Forward Guidance)",
+          "解释": "在保持逻辑清晰的前提下，尽早明确段落或论述的导向和预期结论，或使用前瞻性表述引导读者预期，减少不必要的悬念或冗长引导。(While maintaining logical clarity, explicitly state the direction and expected conclusion of the paragraph or discourse early on, or use forward-guiding statements to manage reader expectations, reducing unnecessary suspense or lengthy lead-ins.)"
+        },
+        {
+          "要点": "精炼信息传递：减少解释性冗余 (Refine Information Delivery: Reduce Explanatory Redundancy)",
+          "解释": "对于上下文中已清晰或读者可自行推断的逻辑关系和信息，简化或省略不必要的解释性语句，信任读者的理解力。(For logical relations and information already clear from context or inferable by the reader, simplify or omit unnecessary explanatory sentences, trusting the reader's comprehension.)"
+        },
+        {
+          "要点": "保持段内简洁：警惕单一论点的过度延伸 (Maintain Intra-Paragraph Brevity: Guard Against Over-Extension of a Single Point)",
+          "解释": "即便段落围绕单一核心思想，也需避免对该思想的论证或阐释过度延伸，导致内部信息密度下降和冗余感。必要时考虑拆分或重组。(Even if a paragraph centers on a single core idea, avoid over-extending its argumentation or explanation, which can decrease internal information density and create a sense of redundancy. Consider splitting or restructuring if necessary.)"
+        },
+        {
+          "要点": "尊重读者认知：避免过度阐释显见事实 (Respect Reader Cognition: Avoid Over-Explaining Obvious Facts)",
+          "解释": "避免对领域内普遍接受的常识、定义或显而易见的逻辑进行不必要的详细阐释，以维持叙述的专业性和效率。(Avoid unnecessary detailed explanation of commonly accepted knowledge, definitions, or obvious logic within the field to maintain professionalism and efficiency in narration.)"
+        }
+      ]
+    }
   }
-
 }
